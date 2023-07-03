@@ -1,0 +1,41 @@
+.alignCenter
+{
+text-align: center;
+}
+.fontSiceBig
+{
+  font-size: 30px;
+}
+.fontColorViolet
+{
+  color: blueviolet;
+  font-weight: bold;
+}
+.startStyle 
+{
+font-size: 50px;
+}
+.startStyle:hover
+{
+background-color: rgba(200, 21, 240, 1);
+  transform: scale(1.1);
+  transition: 0.10s;
+}
+.exitStyle
+{
+  font-size: 50px;
+}
+.exitStyle:hover 
+{
+  background-color: rgba(255, 0, 0, 1);
+  transform: scale(1.1);
+  transition: 0.10s;
+  
+}
+.paragraphTransform
+{
+  
+  text-align: center;
+  font-size: 30px;
+}
+
